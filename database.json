@@ -1,13 +1,16 @@
 {
   "Suspect": [
-    "PUID_1",
-    "PUID_2"
+    "0002271c477a4dfda0696bf1fb9ed6e8",
+    "0002277c34dd4d8eaf5b94c060d4a6a4",
+    "0002fc87bda34d2dab83e111323e2462",
+    "0002e9848cc44ec6877b4c88a0d5185d"
   ],
   "Target": [
-    "PUID_3"
+    "000217708115400dbf3a1312590c5e2f", "00020e6e1b834b05a0ea79f327777fcd"
   ],
-  "Eliminate": [],
-  "Agent": [],
+  "Eliminate": ["00029e944e124f51bb3431394ebab37b"],
+  "Ally": [],
+  "Agent": ["0002685fd09e4020aa1a734d718c006e"],
   "Curator": [],
-  "Director": ["0002685fd09e4020aa1a734d718c006e"]
+  "Director": []
 }
