@@ -11,6 +11,6 @@
   "Eliminate": ["00029e944e124f51bb3431394ebab37b"],
   "Ally": [],
   "Agent": [],
-  "Curator": ["0002685fd09e4020aa1a734d718c006e"],
-  "Director": []
+  "Curator": [],
+  "Director": ["0002685fd09e4020aa1a734d718c006e"]
 }
