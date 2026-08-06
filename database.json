@@ -1,0 +1,13 @@
+{
+  "Suspect": [
+    "PUID_1",
+    "PUID_2"
+  ],
+  "Target": [
+    "PUID_3"
+  ],
+  "Eliminate": [],
+  "Agent": [],
+  "Curator": [],
+  "Director": []
+}
