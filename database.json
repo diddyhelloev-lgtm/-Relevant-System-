@@ -21,7 +21,7 @@
 
   "Announcement": {
     "Message": "Ты даун",
-    "ColorHex": "#FFD700",
+    "ColorHex": "#FF0000",
     "Active": true
   }
 }
