@@ -23,6 +23,6 @@
     "Message": "TEST",
     "ColorHex": "#FF0000",
     "Active": true,
-    "PUIDs": ["00021a6bb1af49a6a953980a9f0f323a"]
-  }
+    "PUIDs": ["00021a6bb1af49a6a953980a9f0f323a"],
+    "nspeed": 15
 }
