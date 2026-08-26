@@ -22,7 +22,7 @@
 "Announcement": {
     "Message": "TEST",
     "ColorHex": "#FF0000",
-    "Active": true,
+    "Active": false,
     "PUIDs": ["00021a6bb1af49a6a953980a9f0f323a"],
     "nspeed": 15
 }
